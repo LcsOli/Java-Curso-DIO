@@ -1,3 +1,4 @@
+package edu.lucas.segundaaula;
 public class MinhaClasse {
 
     public static void main(String[] args) {

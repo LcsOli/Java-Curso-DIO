@@ -1,3 +1,4 @@
+package edu.lucas.primeiraaula;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 5;
